@@ -14,7 +14,7 @@ Features
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 .
